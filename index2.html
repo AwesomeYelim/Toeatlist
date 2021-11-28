@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Momentum App</title>
+    <link rel="shortcut icon" href="img/favi.png">    
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+   
+        <div id="container">
+            <h2 id="clock">00 : 00 : 00 </h2>
+            <!-- <form class="hidden" id="login-form">
+                <input required maxlength="15" type="text" placeholder="What is your name ?" />
+                <input type="submit" value="Log In" />
+            </form>  -->
+            <h2 id="greeting" class="hidden">
+            </h2>
+
+            <div id="toeat">
+                <form id="todo-form">
+                    <label for="toeatlist" id="to-eat-list">To eat list</label><br/>
+                    <input type="text" placeholder="Write a To Eat" required />
+                </form>
+                <ul id="todo-list"></ul>
+            </div>
+            
+            <div id="weather">
+                <span></span>
+                <span></span>
+            </div>
+            <!-- <button onclick="myfnc();">ORDER</button> -->
+        </div>
+
+    <script src="login.js"></script>
+    <script src="clock.js"></script>
+    <script src="background.js"></script>
+    <script src="toeat.js"></script>
+    <script src="weather.js"></script>
+</body>
+</html>
