@@ -4,7 +4,7 @@
 - 반응형 : o
 - 사용스택 : javascript
 - 날씨,지역,기온 API 
-- Storage 저장 구현
+- local Storage 구현
 - 현재시각 구현
 - To eat list 구현
 - 배경이미지 랜덤으로 변경
