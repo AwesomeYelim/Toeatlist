@@ -8,3 +8,7 @@
 - 현재시각 구현
 - To eat list 구현
 - 배경이미지 랜덤으로 변경
+
+
+https://user-images.githubusercontent.com/93499143/147185006-4320cc8b-db2c-4a43-a749-babbe4af275c.mp4
+
