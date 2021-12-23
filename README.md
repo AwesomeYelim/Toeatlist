@@ -9,6 +9,6 @@
 - To eat list 구현
 - 배경이미지 랜덤으로 변경
 
-
-https://user-images.githubusercontent.com/93499143/147185006-4320cc8b-db2c-4a43-a749-babbe4af275c.mp4
-
+<a href="https://nomadcoders.co/community/thread/1506">
+  <img width="1397" alt="torat" src="https://user-images.githubusercontent.com/93499143/147185244-db83a641-9391-4c01-9c72-b93b3e045598.png">
+</a>
