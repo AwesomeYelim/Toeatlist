@@ -1,4 +1,4 @@
-# Click 👉 <a href ="https://awesomeyelim.github.io/toeat1.github.io/">toeat1</a>
+# Click 👉 <a href ="https://awesomeyelim.github.io/toeat1.github.io/">Toeat</a>
 - 기간 : 21.11.27 ~ 28
 - 목적 : 노마드 챌린지 졸업작품
 - 반응형 : o
