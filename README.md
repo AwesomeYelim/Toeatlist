@@ -10,7 +10,7 @@
 - 배경이미지 랜덤으로 변경
 
 
-### 사진 클릭시 챌린지 페이지로 이동
+#### 사진 클릭시 챌린지 페이지로 이동합니다.
 <a href="https://nomadcoders.co/community/thread/1506">
   <img width="1397" alt="torat" src="https://user-images.githubusercontent.com/93499143/147185244-db83a641-9391-4c01-9c72-b93b3e045598.png">
 </a>
