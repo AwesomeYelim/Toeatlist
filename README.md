@@ -1,6 +1,6 @@
 # Click 👉 <a href ="https://awesomeyelim.github.io/toeat1.github.io/">Toeatlist</a>
 - 기간 : 21.11.27 ~ 28
-- 목적 : 노마드 챌린지 졸업작품
+- 목적 : Vanilla js 노마드 챌린지 18기 졸업작품
 - 반응형 : o
 - 사용스택 : javascript
 - 날씨,지역,기온 API 연결
