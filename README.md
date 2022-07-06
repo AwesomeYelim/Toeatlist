@@ -1,4 +1,4 @@
-# Click 👉 <a href ="https://awesomeyelim.github.io/toeat1.github.io/">Toeatlist</a>
+# Click 👉 <a href ="https://awesomeyelim.github.io/Toeatlist/">Toeatlist</a>
 - 기간 : 21.11.27 ~ 28
 - 목적 : Vanilla js 노마드 챌린지 18기 졸업작품
 - 반응형 : o
